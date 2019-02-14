@@ -15,7 +15,7 @@ class NewSort
 					min_idx = j;
 			int temp = arr[min_idx];
 			arr[min_idx] = arr[i];
-			arr[i] = temp;
+			arr[i] = temp;;
 		}
 	}
 
